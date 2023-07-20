@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![hemanthy1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthy1&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 <!--
 **hemanthy1/hemanthy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
