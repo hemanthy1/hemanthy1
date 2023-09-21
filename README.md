@@ -1,8 +1,9 @@
 ### About Me:
 ![Hemanth's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hemanthy1&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
-#### As you can see my languages are just like me: *All over the place*
-#### You can find me and my work all over the world wide web (none of that Web3 nonsense tho)
+As you can see my languages are just like me: *All over the place*
+
+You can find me and my work all over the world wide web (none of that Web3 nonsense tho)
 #### [Yes, I have a website](https://hemanthyalamanchili.com)
 <!--
 **hemanthy1/hemanthy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
