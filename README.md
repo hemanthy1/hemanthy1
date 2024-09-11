@@ -3,7 +3,7 @@
 
 As you can see, my languages are just like me: *All over the place*
 
-You can find me and my work all over the world wide web (none of that Web3 nonsense tho)
+You can find me and my work all over the world wide web
 #### [Yes, I have a website](https://hemanthyalamanchili.com)
 <!--
 **hemanthy1/hemanthy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
